@@ -43,7 +43,7 @@ CIFAR-10 Mini — 500 images per class × 10 classes = 5,000 images
 - How I would improve this: ...
  
 ## How to Run
-1. Open [Kaggle Notebook Link]
+1. Open [https://www.kaggle.com/code/kabrahanwaar/cv-lab11-cifar10-ipynb]
 2. Enable GPU: Settings → Accelerator → GPU T4
 3. Run all cells in order
  
